@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Rekta",
+    "slug": "rekta-social",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#000000"
+      },
+      "package": "com.rekta.social"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "70e7c644-c96c-4b2f-a405-45a6fdc15f2b"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.rekta.social"
+    }
+  }
+}

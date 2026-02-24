@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.2.0",
+    "@supabase/supabase-js": "^2.95.3",
+    "expo-av": "~16.0.8",
+    "expo-localization": "^17.0.8",
+    "i18next": "^25.8.7",
+    "react-i18next": "^16.5.4",
+    "expo": "~54.0.33",
+    "react": "19.1.0",
+    "react-native": "0.81.5"
+  },
+  "name": "home",
+  "version": "1.0.0",
+  "scripts": {
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  }
+}
